@@ -1,16 +1,14 @@
-# BMI_Calculator
+# BMI Calculator
 
-PHP form that calculates BMI – Body Mass Index of a person by giving input through the form and print the status of BMI category as a response in the next page as below.
-BMI category is 
+## Project AIM:
+The project focuses on BMI calculation and classification based on user-provided height and weight. It utilizes PHP to process input and determine BMI, displaying results with corresponding health classifications.
 
-Below 18.5      Underweight
+## BMI Calculation:
+The project employs a simple BMI formula: BMI = (Weight / (Height * Height)) * 703.
+It categorizes BMI into underweight, normal, overweight, and obese based on specific ranges.
 
-18.5–24.9        Healthy
+## Daily Scenario Usage:
+This tool helps individuals assess their BMI, offering insights into their health status. Users can input their height and weight, and the system calculates the BMI, providing a classification (underweight, normal, overweight, or obese). This information aids in understanding and managing personal health, encouraging a healthier lifestyle.
 
-25–29.9           Overweight                                                          
-
-30 and above   Obese
-
-and the formulae is [weight (kg) / [height (cm)] 2] x 10,000
-
-Formula: weight (lb) / [height (in)]2 x 703
+## Conclusion:
+The BMI calculator serves as a quick and accessible tool for individuals to gauge their body mass index. Its simplicity makes it suitable for daily use, promoting awareness of one's health condition. The classification alerts users to potential weight-related health risks, fostering informed decisions for a healthier lifestyle.
